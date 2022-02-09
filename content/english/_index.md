@@ -106,6 +106,6 @@ call_to_action:
   content : "Come see us today at 118 N Wisconsin St #3 in Gunnison...we'll be ready to get you back on track"
   button:
     enable : true
-    label : "Contacta con nosotros"
+    label : "Contact Us"
     link : "#"
 ---
