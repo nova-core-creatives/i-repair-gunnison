@@ -1,0 +1,3 @@
+[submodule "bigspring-light"]
+	path = themes/bigspring-light
+	url = git@github.com:robertstrey/bigspring-light.git
