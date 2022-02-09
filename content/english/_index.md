@@ -64,7 +64,7 @@ service:
     - title : "Are you having phone problems?"
       images:
       - "images/remote-working.png"
-      content : "We can fix them! Our technicians are trained to diagnose and repair any problem your phone might have. Whether it’s a cracked screen, water damage, or just general wear and tear, we can help. We also buy used phones for cash so if you don’t want to wait for repairs, we will give you money right away. It doesn’t get much easier than that! "
+      content : "We can fix them! Our technicians are trained to diagnose and repair any problem your phone might have. Whether it’s a cracked screen, water damage, or just general wear and tear, we can help. We also buy used phones for cash so if you don’t want to wait for repairs, we will give you money right away. It doesn’t get much easier than that!"
       button:
         enable : true
         label : "Check it out"
@@ -93,7 +93,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "One Place for All Your Phone Needs"
   image : "images/screenshot.svg"
 
 
@@ -106,6 +106,6 @@ call_to_action:
   content : "Come see us today at 118 N Wisconsin St #3 in Gunnison...we'll be ready to get you back on track"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contacta con nosotros"
     link : "#"
 ---

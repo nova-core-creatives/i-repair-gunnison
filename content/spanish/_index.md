@@ -1,9 +1,10 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
+  title : "
+Resolvemos todos los problemas de tu teléfono"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "iRepair Gunnison es una empresa de reparación de teléfonos de propiedad y operación familiar. Compramos, vendemos y reparamos todo tipo de teléfonos!"
   button:
     enable : true
     label : "Contact Us"
@@ -12,38 +13,37 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Why Choose Us"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Established"
+      icon : "fas fa-landmark"
+      content : "Quality Repairs since 2015"
 
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Certified"
+      icon : "fas fa-certificate"
+      content : "Certified Repair Technicians"
 
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Convenient"
+      icon : "fas fa-thumbtack"
+      content : "Walk-ins Always Welcome"
 
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Value"
+      icon : "fas fa-tag"
+      content : "The Best for Less"
 
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Location"
+      icon : "fas fa-compass"
+      content : "At the Corner of Wisconsin and Virginia"
 
     # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
+    - name : "Consistent"
+      icon : "fas fa-compass"
+      content : "Excellent Service, Every Time"
 
 
 ######################### Service #####################
@@ -61,39 +61,39 @@ service:
   #      link : "#"
 
     # service item loop
-    - title : "The Best Choice to get you Back to Normal"
+    - title : "¿Tienes problemas con el teléfono?"
       images:
-      - "images/service-1.png"
-      content : "You won't find another store like us in Gunnison County - our family-owned business is the best place to go when you need anything related to mobile devices repaired or replaced. With over 10 years of experience in the industry, our team has seen and fixed it all! So stop by today for fast service at an affordable price. "
+      - "images/remote-working.png"
+      content : "¡Podemos arreglarlos! Nuestros técnicos están capacitados para diagnosticar y reparar cualquier problema que pueda tener su teléfono. Ya sea que se trate de una pantalla rota, daños por agua o simplemente desgaste general, podemos ayudarlo. También compramos teléfonos usados ​​en efectivo, por lo que si no quiere esperar a que lo reparen, le daremos dinero de inmediato. ¡No hay nada más fácil que eso!"
       button:
         enable : true
-        label : "Check it out"
+        label : "Aprende más"
         link : "#"
 
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "La mejor opción para que vuelvas a la normalidad"
       images:
-      - "images/service-2.png"
-      content : "f there's one thing I know about my customers is that they hate wasting time on their cellphones not working properly - which is why we do everything possible to make sure your device gets back up and running as soon as possible with no hassle on your part whatsoever."
+      - "images/phone-repair.png"
+      content : "No encontrará otra tienda como la nuestra en el condado de Gunnison: nuestra empresa familiar es el mejor lugar para ir cuando necesita reparar o reemplazar algo relacionado con dispositivos móviles. ¡Con más de 10 años de experiencia en la industria, nuestro equipo lo ha visto y solucionado todo! Así que visítenos hoy para un servicio rápido a un precio asequible."
       button:
         enable : true
-        label : "Check it out"
+        label : "Aprende más"
         link : "#"
 
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Para un teléfono como nuevo"
       images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/charging-phone.png"
+      content : "Si hay algo que sé acerca de mis clientes es que odian perder el tiempo con sus teléfonos celulares que no funcionan correctamente, por lo que hacemos todo lo posible para asegurarnos de que su dispositivo vuelva a funcionar lo antes posible sin ningún problema de su parte. . Eso es lo que hace que iRepair Gunnison sea diferente de todos los demás: ¡nos preocupamos por hacer las cosas rápidamente y al mismo tiempo mantener una mano de obra de alta calidad en cada paso del camino!"
       button:
         enable : true
-        label : "Check it out"
+        label : "Aprende más"
         link : "#"
 
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Un lugar para todas sus necesidades telefónicas"
   image : "images/screenshot.svg"
 
 
@@ -101,11 +101,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  title : "¿Listo para empezar?"
+  image : "images/storefront.png"
+  content : "Ven a vernos hoy en 118 N Wisconsin St #3 en Gunnison... estaremos listos para que vuelvas a la normalidad."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact/"
+    label : "Contacta con nosotros"
+    link : "#"
 ---
