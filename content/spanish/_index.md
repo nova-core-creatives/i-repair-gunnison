@@ -3,7 +3,7 @@
 banner:
   title : "
 Resolvemos todos los problemas de tu teléfono"
-  image : "images/banner-art.svg"
+  image : "images/hero-logo-yellow.png"
   content : "iRepair Gunnison es una empresa de reparación de teléfonos de propiedad y operación familiar. Compramos, vendemos y reparamos todo tipo de teléfonos!"
   button:
     enable : true
