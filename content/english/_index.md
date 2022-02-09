@@ -102,10 +102,10 @@ screenshot:
 call_to_action:
   enable : true
   title : "Ready to get started?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  image : "images/storefront.png"
+  content : "Come see us today at 118 N Wisconsin St #3 in Gunnison...we'll be ready to get you back on track"
   button:
     enable : true
     label : "Contact Us"
-    link : "contact/"
+    link : "#"
 ---
