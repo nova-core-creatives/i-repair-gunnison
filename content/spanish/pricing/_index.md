@@ -15,29 +15,31 @@ basic:
     label: Consigue una Cotización
     link: contact
 professional:
-  name: Professional Plan
-  price: "€49"
+  name: Batería
+  price: "$50+"
   price_per: teléfono
-  info: Ideal für Professionals
+  info: Para iPhone y Android
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Servicio Interno
+  - Reemplazos Disponibles
+  - Piezas de Calidad
   button:
     enable: true
     label: Consigue una Cotización
     link: contact
 business:
-  name: Business Plan
-  price: "€49"
+  name: Muelle de carga
+  price: "$60+"
   price_per: teléfono
-  info: Ideal für Unternehmen
+  info: Para iPhone y Android
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Examen Gratuito
+  - 'Servicio el Mismo Día
+
+    '
+  - 'Piezas de Primera Calidad
+
+    '
   button:
     enable: true
     label: Consigue una Cotización
