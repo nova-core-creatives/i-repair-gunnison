@@ -12,7 +12,7 @@ basic:
   - Bienvenidos sin cita previa
   button:
     enable: true
-    label: Get a Quote
+    label: Consigue una Cotización
     link: contact
 professional:
   name: Professional Plan
