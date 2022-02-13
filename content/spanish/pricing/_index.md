@@ -13,7 +13,7 @@ basic:
   button:
     enable: true
     label: Consigue una Cotización
-    link: contact
+    link: esp/contact
 professional:
   name: Batería
   price: "$50+"
@@ -26,7 +26,7 @@ professional:
   button:
     enable: true
     label: Consigue una Cotización
-    link: contact
+    link: esp/contact
 business:
   name: Muelle de carga
   price: "$60+"
@@ -43,7 +43,7 @@ business:
   button:
     enable: true
     label: Consigue una Cotización
-    link: 'contact '
+    link: esp/contact
 call_to_action:
   enable: true
   title: Need a larger plan?
