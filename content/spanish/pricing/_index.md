@@ -27,7 +27,7 @@ professional:
   - Best Dashboard
   button:
     enable: true
-    label: Consigue una cotización
+    label: Consigue una Cotización
     link: contact
 business:
   name: Business Plan
