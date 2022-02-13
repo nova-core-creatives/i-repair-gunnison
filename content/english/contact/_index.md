@@ -1,15 +1,13 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### We'd Love to Hear From You!
 
+Let us take care of your phone needs. Reach out for a quick consultation or quote and we'll get started getting you back on track.
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+* **Phone:** [(970) 596-4536](https://www.google.com/search?q=i+repair+gunnison+colorado&oq=i+repair+gun&aqs=chrome.0.0i355i512j46i175i199i512j69i57j69i60l2.2827j1j7&sourceid=chrome&ie=UTF-8#)
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+<a href ="geo: 38.54515934437226, -106.92792399466909 " target="_blank"> 118 N Wisconsin St #3, Gunnison, CO 81230 </a>
