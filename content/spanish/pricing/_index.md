@@ -27,8 +27,8 @@ professional:
   - Best Dashboard
   button:
     enable: true
-    label: Kostenlos starten
-    link: "#"
+    label: Consigue una cotización
+    link: contact
 business:
   name: Business Plan
   price: "€49"
@@ -40,8 +40,8 @@ business:
   - Time-Critical Services
   button:
     enable: true
-    label: Kostenlos starten
-    link: "#"
+    label: Consigue una Cotización
+    link: 'contact '
 call_to_action:
   enable: true
   title: Need a larger plan?
