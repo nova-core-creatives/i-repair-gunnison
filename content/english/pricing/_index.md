@@ -1,6 +1,7 @@
 ---
 title: Pricing
-subtitle: ''
+subtitle: We use top end aftermarket parts and also offer refurbished parts for many
+  devices.
 description: This is meta description
 basic:
   name: Screens
@@ -42,10 +43,10 @@ business:
     link: contact
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: Need something more?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: We offer a range of services beyond the most popular ones above. If you
+    don't see what you're looking for, drop us a line for a free consultation.
   button:
     enable: true
     label: Contact Us
