@@ -1,7 +1,7 @@
 ---
 title: Precios
-subtitle: ''
-description: Dies ist die Metabeschreibung
+subtitle: 'Utilizamos repuestos del mercado de repuestos de gama alta y también ofrecemos repuestos reacondicionados para muchos dispositivos.'
+description: 
 basic:
   name: Pantallas
   price: "$99+"
@@ -46,13 +46,12 @@ business:
     link: esp/contact
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: ¿Necesitas algo más?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Ofrecemos una gama de servicios más allá de los más populares mencionados anteriormente. Si no ve lo que está buscando, escríbanos para una consulta gratuita.
   button:
     enable: true
-    label: Contact Us
-    link: contact/
+    label: Contáctenos
+    link: esp/contact/
 
 ---

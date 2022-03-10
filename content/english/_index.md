@@ -2,7 +2,7 @@
 banner:
   title: Let us solve all your <br> phone problems
   image: images/hero-logo-yellow.png
-  content: iRepair Gunnison is a family-owned and operated phone repair business.
+  content: iRepair Gunnison is a women-owned and operated phone repair business.
     We buy, sell, and repair phones of all sorts!
   button:
     enable: true
@@ -26,7 +26,7 @@ feature:
     content: The Best for Less
   - name: Location
     icon: fas fa-compass
-    content: At the Corner of Wisconsin and Virginia
+    content: 118 N Wisconsin St in Gunnison, CO
   - name: Consistent
     icon: fas fa-compass
     content: Excellent Service, Every Time
@@ -82,6 +82,6 @@ call_to_action:
   button:
     enable: true
     label: Contact Us
-    link: "#"
+    link: "contact"
 
 ---

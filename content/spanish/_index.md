@@ -7,43 +7,43 @@ Resolvemos todos los problemas de tu teléfono"
   content : "iRepair Gunnison es una empresa de reparación de teléfonos de propiedad y operación familiar. Compramos, vendemos y reparamos todo tipo de teléfonos!"
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact/"
+    label : "Contacto"
+    link : "esp/contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Why Choose Us"
+  title : "Por qué elegirnos"
   feature_item:
     # feature item loop
-    - name : "Established"
+    - name : "Establecido"
       icon : "fas fa-landmark"
-      content : "Quality Repairs since 2015"
+      content : "Reparaciones de calidad desde 2015"
 
     # feature item loop
-    - name : "Certified"
+    - name : "Certificado"
       icon : "fas fa-certificate"
-      content : "Certified Repair Technicians"
+      content : "Técnicos de reparación certificados"
 
     # feature item loop
-    - name : "Convenient"
+    - name : "Conveniente"
       icon : "fas fa-thumbtack"
-      content : "Walk-ins Always Welcome"
+      content : "Walk-ins siempre bienvenidos"
 
     # feature item loop
-    - name : "Value"
+    - name : "Valor"
       icon : "fas fa-tag"
-      content : "The Best for Less"
+      content : "Lo mejor por menos"
 
     # feature item loop
-    - name : "Location"
+    - name : "Ubicación"
       icon : "fas fa-compass"
-      content : "At the Corner of Wisconsin and Virginia"
+      content : "118 N Wisconsin St en Gunnison, CO"
 
     # feature item loop
-    - name : "Consistent"
+    - name : "Consistente"
       icon : "fas fa-compass"
-      content : "Excellent Service, Every Time"
+      content : "Excelente servicio, cada vez"
 
 
 ######################### Service #####################
@@ -106,6 +106,6 @@ call_to_action:
   content : "Ven a vernos hoy en 118 N Wisconsin St #3 en Gunnison... estaremos listos para que vuelvas a la normalidad."
   button:
     enable : true
-    label : "Contacta con nosotros"
+    label : "Contáctenos"
     link : "#"
 ---
