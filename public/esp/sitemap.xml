@@ -41,6 +41,19 @@
                 href="/esp/blog/"
                 />
   </url><url>
+    <loc>/esp/success/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="esp"
+                href="/esp/success/"
+                />
+  </url><url>
     <loc>/esp/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -65,6 +78,18 @@
                 href="/esp/categories/"
                 />
   </url><url>
+    <loc>/esp/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="esp"
+                href="/esp/contact/"
+                />
+  </url><url>
     <loc>/esp/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,18 +112,6 @@
                 rel="alternate"
                 hreflang="esp"
                 href="/esp/faq/"
-                />
-  </url><url>
-    <loc>/esp/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="esp"
-                href="/esp/contact/"
                 />
   </url><url>
     <loc>/esp/pricing/</loc>
