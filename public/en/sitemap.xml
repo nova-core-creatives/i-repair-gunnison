@@ -56,6 +56,7 @@
     <loc>/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>/success/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -69,6 +70,8 @@
                 href="/success/"
                 />
   </url><url>
+=======
+>>>>>>> 0ab71d5 (first commit)
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"

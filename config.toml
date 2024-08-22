@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 baseURL = 'http://irepair.novacore.design'
+=======
+baseURL = 'http://irepair.novacore.info'
+>>>>>>> 0ab71d5 (first commit)
 languageCode = 'en-us'
 title = 'iRepair Gunnison'

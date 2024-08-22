@@ -41,6 +41,7 @@
                 href="/esp/blog/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>/esp/success/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -54,6 +55,8 @@
                 href="/esp/success/"
                 />
   </url><url>
+=======
+>>>>>>> 0ab71d5 (first commit)
     <loc>/esp/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +81,7 @@
                 href="/esp/categories/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>/esp/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -90,6 +94,8 @@
                 href="/esp/contact/"
                 />
   </url><url>
+=======
+>>>>>>> 0ab71d5 (first commit)
     <loc>/esp/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,6 +120,21 @@
                 href="/esp/faq/"
                 />
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>/esp/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="esp"
+                href="/esp/contact/"
+                />
+  </url><url>
+>>>>>>> 0ab71d5 (first commit)
     <loc>/esp/pricing/</loc>
     <xhtml:link
                 rel="alternate"
