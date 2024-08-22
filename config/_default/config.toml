@@ -1,11 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 title = "iRepair Gunnison"
-<<<<<<< HEAD
-theme = "bigspring-light"
-=======
 ##### theme = "bigspring-light"  #########
->>>>>>> 0ab71d5 (first commit)
 # post pagination
 paginate = "3"
 # post excerpt
@@ -17,8 +13,6 @@ googleAnalytics = "" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
-<<<<<<< HEAD
-=======
 
 ######################### site variables ##############################
 # customize your color and font from here.
@@ -64,4 +58,3 @@ link = "plugins/slick/slick.min.js"
 # [[params.plugins.js]]
 # link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 # attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
->>>>>>> 0ab71d5 (first commit)
